@@ -1,0 +1,8 @@
+N Name                     Sport          Group
+1      Maxmi                              DK-52 
+2      Maxmi                              DK-52 
+3      Maxmi                              DK-52 
+4      Maxmi                              DK-52 
+5      Maxmi                              DK-52 
+6      Maxmi                              DK-52 
+7      Maxmi                              DK-52 
